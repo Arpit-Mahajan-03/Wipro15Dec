@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from Main.
+=======
+Hi from Dev.
+>>>>>>> dev
